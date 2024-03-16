@@ -1,0 +1,17 @@
+{
+  "profiles": {
+    "MyNotes (Package)": {
+      "commandName": "MsixPackage",
+      "alwaysReinstallApp": false,
+      "remoteDebugEnabled": false,
+      "allowLocalNetworkLoopbackProperty": true,
+      "authenticationMode": "Windows",
+      "doNotLaunchApp": false,
+      "remoteDebugMachine": "",
+      "nativeDebugging": false
+    },
+    "MyNotes (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
